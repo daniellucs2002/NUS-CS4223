@@ -1,0 +1,3 @@
+[submodule "assignment2/project"]
+	path = assignment2/project
+	url = https://github.com/daniellucs2002/CC-UMA-Simulator.git
